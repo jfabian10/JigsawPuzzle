@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PuzzleImage1</key>
+	<array>
+		<integer>92</integer>
+		<integer>78</integer>
+	</array>
+	<key>PuzzleImage2</key>
+	<array>
+		<integer>227</integer>
+		<integer>81</integer>
+	</array>
+	<key>PuzzleImage3</key>
+	<array>
+		<integer>362</integer>
+		<integer>79</integer>
+	</array>
+	<key>PuzzleImage4</key>
+	<array>
+		<integer>516</integer>
+		<integer>88</integer>
+	</array>
+	<key>PuzzleImage5</key>
+	<array>
+		<integer>82</integer>
+		<integer>249</integer>
+	</array>
+	<key>PuzzleImage6</key>
+	<array>
+		<integer>229</integer>
+		<integer>249</integer>
+	</array>
+	<key>PuzzleImage7</key>
+	<array>
+		<integer>392</integer>
+		<integer>220</integer>
+	</array>
+	<key>PuzzleImage8</key>
+	<array>
+		<integer>523</integer>
+		<integer>224</integer>
+	</array>
+	<key>PuzzleImage9</key>
+	<array>
+		<integer>95</integer>
+		<integer>373</integer>
+	</array>
+	<key>PuzzleImage10</key>
+	<array>
+		<integer>233</integer>
+		<integer>373</integer>
+	</array>
+	<key>PuzzleImage11</key>
+	<array>
+		<integer>376</integer>
+		<integer>370</integer>
+	</array>
+	<key>PuzzleImage12</key>
+	<array>
+		<integer>518</integer>
+		<integer>363</integer>
+	</array>
+</dict>
+</plist>
